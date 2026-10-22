@@ -1,10 +1,10 @@
-<a href="https://canarywatch.netlify.app"><img src="https://raw.githubusercontent.com/canarywatch/canary/main/site/assets/brand/banner.png" width="100%" alt="canary. Every new package on npm and PyPI, read before anyone installs it."></a>
+<a href="https://canarywatch.live"><img src="https://raw.githubusercontent.com/canarywatch/canary/main/site/assets/brand/banner.png" width="100%" alt="canary. Every new package on npm and PyPI, read before anyone installs it."></a>
 
 <div align="center">
-<a href="https://canarywatch.netlify.app"><img src="https://img.shields.io/badge/canarywatch.netlify.app-the%20wall-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="the wall"></a>
-<a href="https://canarywatch.netlify.app/check.html"><img src="https://img.shields.io/badge/check-your%20dependency%20file-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="check"></a>
+<a href="https://canarywatch.live"><img src="https://img.shields.io/badge/canarywatch.live-the%20wall-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="the wall"></a>
+<a href="https://canarywatch.live/check.html"><img src="https://img.shields.io/badge/check-your%20dependency%20file-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="check"></a>
 <a href="https://github.com/canarywatch/canary"><img src="https://img.shields.io/badge/agent-source-0A0B0D?style=for-the-badge&logo=github&logoColor=FFD23F&labelColor=0A0B0D" alt="agent source"></a>
-<a href="https://canary.162-35-122-197.sslip.io/state.json"><img src="https://img.shields.io/badge/agent-live%20json-3DDC84?style=for-the-badge&labelColor=0A0B0D" alt="live json"></a>
+<a href="https://api.canarywatch.live/state.json"><img src="https://img.shields.io/badge/agent-live%20json-3DDC84?style=for-the-badge&labelColor=0A0B0D" alt="live json"></a>
 <img src="https://img.shields.io/github/followers/canarywatch?style=for-the-badge&logo=github&logoColor=FFD23F&color=0A0B0D&labelColor=0A0B0D&label=followers" alt="followers">
 <a href="https://github.com/canarywatch/canary/stargazers"><img src="https://img.shields.io/github/stars/canarywatch/canary?style=for-the-badge&logo=github&logoColor=FFD23F&color=0A0B0D&labelColor=0A0B0D&label=stars" alt="stars"></a>
 </div>
@@ -79,6 +79,6 @@ mint = "posted here and on the project account on launch day"
 
 <p align="center"><a href="https://github.com/canarywatch/canary"><img src="https://img.shields.io/badge/github.com%2Fcanarywatch%2Fcanary-open%20the%20repo-FFD23F?style=for-the-badge&logo=github&logoColor=0A0B0D&labelColor=0A0B0D" alt="canary repo"></a></p>
 
-<p align="center"><sub>the rules as the agent runs them. the public json: <a href="https://canary.162-35-122-197.sslip.io/state.json">state</a> · <a href="https://canary.162-35-122-197.sslip.io/catches.json">catches</a> · <a href="https://canary.162-35-122-197.sslip.io/events.json">events</a> · <a href="https://canary.162-35-122-197.sslip.io/rules.json">rules</a></sub></p>
+<p align="center"><sub>the rules as the agent runs them. the public json: <a href="https://api.canarywatch.live/state.json">state</a> · <a href="https://api.canarywatch.live/catches.json">catches</a> · <a href="https://api.canarywatch.live/events.json">events</a> · <a href="https://api.canarywatch.live/rules.json">rules</a></sub></p>
 
-<p align="center"><sub>built in public · <a href="https://canarywatch.netlify.app">canarywatch.netlify.app</a> · <a href="https://github.com/canarywatch/canary">canarywatch/canary</a></sub></p>
+<p align="center"><sub>built in public · <a href="https://canarywatch.live">canarywatch.live</a> · <a href="https://github.com/canarywatch/canary">canarywatch/canary</a></sub></p>
