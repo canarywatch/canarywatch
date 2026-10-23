@@ -1,8 +1,9 @@
-<a href="https://canarywatch.live"><img src="https://raw.githubusercontent.com/canarywatch/canary/main/site/assets/brand/banner.png" width="100%" alt="canary. Every new package on npm and PyPI, read before anyone installs it."></a>
+<a href="https://canarywatch.live"><img src="https://canarywatch.live/assets/brand/banner.png" width="100%" alt="canary. Every new package on npm and PyPI, read before anyone installs it."></a>
 
 <div align="center">
 <a href="https://canarywatch.live"><img src="https://img.shields.io/badge/canarywatch.live-the%20wall-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="the wall"></a>
 <a href="https://canarywatch.live/check.html"><img src="https://img.shields.io/badge/check-your%20dependency%20file-FFD23F?style=for-the-badge&labelColor=0A0B0D" alt="check"></a>
+<a href="https://x.com/canarywatch_sol"><img src="https://img.shields.io/badge/X-%40canarywatch__sol-0A0B0D?style=for-the-badge&logo=x&logoColor=FFD23F&labelColor=0A0B0D" alt="X"></a>
 <a href="https://github.com/canarywatch/canary"><img src="https://img.shields.io/badge/agent-source-0A0B0D?style=for-the-badge&logo=github&logoColor=FFD23F&labelColor=0A0B0D" alt="agent source"></a>
 <a href="https://api.canarywatch.live/state.json"><img src="https://img.shields.io/badge/agent-live%20json-3DDC84?style=for-the-badge&labelColor=0A0B0D" alt="live json"></a>
 <img src="https://img.shields.io/github/followers/canarywatch?style=for-the-badge&logo=github&logoColor=FFD23F&color=0A0B0D&labelColor=0A0B0D&label=followers" alt="followers">
@@ -22,7 +23,7 @@ tripped = "our rules' word: enough weight, with the file and the line that did i
 confirmed = "the public record's word: a malware advisory at OSV / OpenSSF for exactly that version"
 trusted = "a year old, or 50k downloads a week: heuristics alone never put it on the wall"
 check = "paste a package.json, a lockfile or a requirements.txt: what is on the record, nothing stored"
-mint = "posted here and on the project account on launch day"
+mint = "posted here and on @canarywatch_sol on launch day"
 ```
 
 ### 🧰 Stack
@@ -81,4 +82,4 @@ mint = "posted here and on the project account on launch day"
 
 <p align="center"><sub>the rules as the agent runs them. the public json: <a href="https://api.canarywatch.live/state.json">state</a> · <a href="https://api.canarywatch.live/catches.json">catches</a> · <a href="https://api.canarywatch.live/events.json">events</a> · <a href="https://api.canarywatch.live/rules.json">rules</a></sub></p>
 
-<p align="center"><sub>built in public · <a href="https://canarywatch.live">canarywatch.live</a> · <a href="https://github.com/canarywatch/canary">canarywatch/canary</a></sub></p>
+<p align="center"><sub>built in public · <a href="https://canarywatch.live">canarywatch.live</a> · <a href="https://x.com/canarywatch_sol">@canarywatch_sol</a> · <a href="https://github.com/canarywatch/canary">canarywatch/canary</a></sub></p>
